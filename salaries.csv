@@ -1,0 +1,25 @@
+﻿company,job,degree,salary_more_than_100k
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,sales executive,bachelors,1
+google,sales executive,masters,1
+google,sales executive,bachelors,1
+google,sales executive,masters,0
+google,business manager,masters,0
+google,business manager,bachelors,1
+google,business manager,phd,1
+amazon,business manager,phd,0
+amazon,business manager,bachelors,0
+amazon,computer programmer,phd,1
+amazon,computer programmer,bachelors,1
+amazon,computer programmer,masters,0
+amazon,computer programmer,phd,0
+amazon,computer programmer,bachelors,1
+ibm,computer programmer,masters,1
+ibm,business analyst,phd,0
+ibm,business analyst,phd,0
+ibm,business analyst,bachelors,1
+ibm,business analyst,bachelors,1
+ibm,business analyst,masters,0
+ibm,data analyst,bachelors,0
+ibm,data analyst,phd,1
